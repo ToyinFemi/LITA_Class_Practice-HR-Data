@@ -1,4 +1,4 @@
-[Project Title](p#project-title)
+[Project Title](#project-title)
 
 Project Overview
 Data Sources
