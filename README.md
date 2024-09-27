@@ -34,3 +34,5 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
 
+## Data Visualization
+
