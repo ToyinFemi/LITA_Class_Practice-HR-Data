@@ -1,3 +1,12 @@
+[Project Title](p#project-overview)
+Project Overview
+Data Sources
+Tools Used
+Data Cleaning and Preparation
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
+
 ## Project Title
 ---
 LITA_Class_Practice.
@@ -26,7 +35,7 @@ This is the documentation of my first project whilst still learning Data Analysi
 
 ## Exploratory Data Analysis
 ---
-## Data ANALYSIS
+## Data Analysis
 ---
 These are the basic lines of codes or queries used during the analysis:
 ```SQL
@@ -36,3 +45,8 @@ WHERE CONDITION = TRUE
 
 ## Data Visualization
 
+👅
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table2|Table3|
