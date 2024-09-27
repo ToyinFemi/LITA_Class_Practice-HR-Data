@@ -5,7 +5,9 @@ Data Sources
 Tools Used
 Data Cleaning and Preparation
 Exploratory Data Analysis
-Data Analysis
+
+[Data Analysis](#data-analysis)
+
 Data Visualization
 
 ## Project Title
