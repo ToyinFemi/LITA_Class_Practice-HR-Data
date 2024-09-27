@@ -1,14 +1,11 @@
 [Project Title](#project-title)
-
-Project Overview
-Data Sources
-Tools Used
-Data Cleaning and Preparation
-Exploratory Data Analysis
-
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used] 
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 [Data Analysis](#data-analysis)
-
-Data Visualization
+[Data Visualization](#data-visualization)
 
 ## Project Title
 ---
