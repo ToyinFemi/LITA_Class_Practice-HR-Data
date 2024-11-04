@@ -1,52 +1,41 @@
-[Project Title](#project-title)
-[Project Overview](#project-overview)
-[Data Sources](#data-sources)
-[Tools Used] 
-[Data Cleaning and Preparation](#data-cleaning-and-preparation)
-[Exploratory Data Analysis](#exploratory-data-analysis)
-[Data Analysis](#data-analysis)
-[Data Visualization](#data-visualization)
 
-## Project Title
+# Project name: LITA_Class_Practice: HR Data
 ---
-LITA_Class_Practice.
-
-## Project Overview
+This is a documentation of data validation, cleaning, querying, transformation, and visualization I carried out while working on the HR Data.  
 ---
-This is the documentation of my first project whilst still learning Data Analysis with The Incubation Hub.
-
-## Data Sources
+### Overview
 ---
+This project collects and analyzes the attrition rate within a company. 
 
-## Tools Used
+### Tools Used
 ---
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For Data Cleaning.
-  2. For Data Analysis.
-  3. For Data Visualization. 
-- SQL-Structured Query Language for querying data.
-- GitHub for Portfolio Building. 
+1. Power BI: For Data Transformation, and Virtualization. 
 
-## Data Cleaning and Preparation
+### Data Cleaning and Preparations
 ---
-1. Data Loading and Inspection.
-2. Handling Missing Variables.
-3. Data Cleaning and Formatting.
+The following actions were performed to clean and prepare the data:
 
-## Exploratory Data Analysis
+- Data Loading and Inspection on Power BI.
+- Data Cleaning and Formatting on  Power BI.
+- Handling and Calculating missing variables on Power BI.
+
+### Exploratory Data Analysis
 ---
-## Data Analysis
+The data was explored to determine the following: 
+- Total sales by product, region, and month.
+- Average sales per product.
+- Total revenue by region.
+- Total sales for each product category.
+- Number of sales transactions in each region.
+- Highest-selling product by total sales value.
+- Total revenue per product.
+- Monthly sales totals for the year 2024.
+- Top 5 customers by total purchase amount.
+- Percentage of total sales contributed by each region.
+- Products with no sales in the last quarter.
+- Regional breakdowns
+
+
+### Data Analysis, Visualization, and Inferences (Microsoft Excel)
 ---
-These are the basic lines of codes or queries used during the analysis:
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```
-
-## Data Visualization
-
-👅
-
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table2|Table3|
+This includes all the pivot tables made using Microsoft Excel.
